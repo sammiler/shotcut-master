@@ -10,7 +10,7 @@ const baseConfig = {
     environment: [],
     externalConsole: false,
     MIMode: "gdb",
-    miDebuggerPath: "C:\\msys64\\mingw64\\bin\\gdb.exe",
+    miDebuggerPath: "C:/msys64/mingw64/bin/gdb.exe",
     setupCommands: [
         { description: "Enable pretty-printing for gdb", text: "-enable-pretty-printing", ignoreFailures: true },
         { description: "Set charset to UTF-8", text: "set charset UTF-8", ignoreFailures: true } ,
