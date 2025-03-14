@@ -17,7 +17,7 @@
             ],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
@@ -53,7 +53,7 @@
             ],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
@@ -73,7 +73,7 @@
             ],
             "preLaunchTask": "cmake-build" ,
             "sourceFileMap": {
-                "C:/M/B/src/qtbase-everywhere-src-6.8.2/src": "C:\\Qt\\Sources\\Qt6.8.2\\qtbase\\src"
+                "C:/M/B/src/qtbase-everywhere-src-6.8.2/src": "C:/Qt/Sources/Qt6.8.2/qtbase/src"
             }
         }
     ]

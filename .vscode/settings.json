@@ -85,7 +85,7 @@
         "qdialogbuttonbox": "cpp"
     },
     "cmake.options.statusBarVisibility": "visible",
-    "cmake.buildDirectory": "${workspaceFolder}\\builds\\${buildKit}\\${buildType}",
+    "cmake.buildDirectory": "${workspaceFolder}/builds/${buildKit}/${buildType}",
     "cmake.configureArgs": [
         "-DCMAKE_TOOLCHAIN_FILE=C:/vcpkg/scripts/buildsystems/vcpkg.cmake",
         "-DVCPKG_TARGET_TRIPLET=x64-windows"
